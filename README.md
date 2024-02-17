@@ -30,7 +30,24 @@ Frontend:
     if you have done it correctly you will see msg "Server is listening on http://localhost:8080"
 
     Enjoy!!
+
+   Default credentials:
+       Admin:
+           U:admin
+           P:admin
+
+        User:
+            U:guest
+            P:guest
+
+            U:guest2
+            P:guest2
+            ........................................................................................
+            ........................................................................................
+            U:guest n
+            P:guest n
+            
 Regards,
-Rochak
+Rochak Bhattarai
     
 
